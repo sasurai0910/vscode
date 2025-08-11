@@ -1,0 +1,13 @@
+.div-row {
+  display: flex;
+  align-items: center; /* ラベルとテキストエリアの縦位置を中央に */
+  gap: 10px; /* ラベルとテキストの間に少し隙間 */
+  margin-bottom: 10px; /* 下の余白 */
+}
+
+.input-text {
+  flex: 1; /* テキストエリアが残りの幅を使う */
+  width: 300px;  /* 横幅を固定 */
+  resize: vertical; /* 横幅は固定、縦だけ調整可能に */
+  border-radius: 8px; /* 角を丸くする */
+}

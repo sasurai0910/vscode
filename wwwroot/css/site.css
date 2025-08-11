@@ -29,3 +29,14 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.btn-beige {
+  background-color: #F5DEB3;
+  color: black;
+  border: 1px solid #D2B48C; /* うすい茶色の枠線 */
+}
+
+.btn-beige:hover {
+  background-color: #EEDCBA;
+  color: black;
+}

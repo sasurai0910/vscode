@@ -119,7 +119,6 @@ C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\rjimswa.dswa.cache.j
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\scopedcss\bundle\MyMvcApp.styles.css
-C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\compressed\5ferloct44-b9sayid5wm.gz
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\compressed\pfpmh99ads-61n19gt1b8.gz
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\compressed\ino9o44bup-xtxxf3hu2r.gz
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\compressed\lfmd92xzan-bqjiyaj88i.gz
@@ -187,3 +186,5 @@ C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\staticwebassets.deve
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\MyMvcApp.genruntimeconfig.cache
 C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\ref\MyMvcApp.dll
+C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\compressed\5ferloct44-4js67pg26k.gz
+C:\Users\kazuy\Desktop\個人開発\vscode\obj\Debug\net9.0\compressed\0sgzw0ehl1-tyaw28pkp2.gz
