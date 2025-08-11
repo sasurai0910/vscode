@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kazuy\\OneDrive\\Desktop\\MyMvcApp\\MyMvcApp.csproj": {}
+    "C:\\Users\\kazuy\\Desktop\\個人開発\\vscode\\MyMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kazuy\\OneDrive\\Desktop\\MyMvcApp\\MyMvcApp.csproj": {
+    "C:\\Users\\kazuy\\Desktop\\個人開発\\vscode\\MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kazuy\\OneDrive\\Desktop\\MyMvcApp\\MyMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\kazuy\\Desktop\\個人開発\\vscode\\MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "C:\\Users\\kazuy\\OneDrive\\Desktop\\MyMvcApp\\MyMvcApp.csproj",
+        "projectPath": "C:\\Users\\kazuy\\Desktop\\個人開発\\vscode\\MyMvcApp.csproj",
         "packagesPath": "C:\\Users\\kazuy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kazuy\\OneDrive\\Desktop\\MyMvcApp\\obj\\",
+        "outputPath": "C:\\Users\\kazuy\\Desktop\\個人開発\\vscode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
