@@ -5,23 +5,23 @@
 
 
 <body>
-    <div class="div-row">
-        <label for="genre">ジャンル</label>
-        <textarea id="genre" class="input-text" placeholder="登録ジャンル"></textarea>
-    </div>
-    <div class="div-row">
-        <label for="input1">項目１</label>
-        <textarea id="input1" class="input-text" placeholder="項目1"></textarea>
-    </div>
-    <div class="div-row">
-        <label for="input2">項目2</label>
-        <textarea id="input2" class="input-text" placeholder="項目2"></textarea>
-    </div>
-    <div class="div-row">
-        <label for="input3">項目3</label>
-        <textarea id="input3" class="input-text" placeholder="項目3"></textarea>
-    </div>
-    <form asp-controller="Home" asp-action="Confirmm" method="get">
+    <form asp-controller="Home" asp-action="Confirmm" method="post">
+        <div class="div-row">
+            <label for="genre">ジャンル</label>
+            <textarea id="genre" name="Genre" class="input-text" placeholder="登録ジャンル"></textarea>
+        </div>
+        <div class="div-row">
+            <label for="input1">項目１</label>
+            <textarea id="input1" name="InputItem" class="input-text" placeholder="項目1"></textarea>
+        </div>
+        <div class="div-row">
+            <label for="input2">項目2</label>
+            <textarea id="input2" name="InputItem" class="input-text" placeholder="項目2"></textarea>
+        </div>
+        <div class="div-row">
+            <label for="input3">項目3</label>
+            <textarea id="input3" name="InputItem" class="input-text" placeholder="項目3"></textarea>
+        </div>
         <button type="submit" class="btn btn-beige mt-3">登録画面へ進む</button>
     </form>
 </body>
